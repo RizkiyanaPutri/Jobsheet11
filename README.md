@@ -35,3 +35,6 @@ mengubah isi array menjadi bentuk string untuk ditampilkan ke layar
 3. Apa nilai default untuk elemen pada array dengan tipe data int?
 >Jawab
 0
+4. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang array dapat dimodifikasi setelah diinstansiasi?
+>Jawab
+Tidak, karena array dalam Java memiliki ukuran tetap dan tidak bisa diubah setelah instansiasi
