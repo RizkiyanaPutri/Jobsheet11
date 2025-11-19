@@ -19,3 +19,6 @@ indeks baris maksimal 3 (0,1,2,3)
 12. Berapa indeks kolom maksimal untuk array penonton?
 >Jawab
 indeks kolom maksimal 1 (0,1)
+13. Apa fungsi dari String.join()?
+>Jawab
+Menggabungkan array atau list string dan untuk menambahkan delimiter(pemisah), misalnya",","-", atau "\n"
