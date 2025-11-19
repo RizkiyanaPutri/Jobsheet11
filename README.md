@@ -32,3 +32,6 @@ Tidak, pengisian elemen array tidak harus berurutan dan program tetap berjalan a
 2. Apa fungsi dari Arrays.toString()?
 >Jawab
 mengubah isi array menjadi bentuk string untuk ditampilkan ke layar
+3. Apa nilai default untuk elemen pada array dengan tipe data int?
+>Jawab
+0
