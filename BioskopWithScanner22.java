@@ -22,8 +22,13 @@ public class BioskopWithScanner22 {
                 System.out.print("Masukkan kolom (1-2): ");
                 int kolom = sc.nextInt();
                 sc.nextLine();
-                penonton[baris - 1][kolom - 1] = nama;
-                System.out.println("Data penonton berhasil disimpan.");
+                
+                if (baris < 1 || baris > 4 || kolom < 1 || kolom > 2) {
+                    System.out.println("Posisi kursi tidak tersedia!");
+                }else{
+                    penonton[baris - 1][kolom - 1] = nama;
+                    System.out.println("Data penonton berhasil disimpan.");
+                }
 
             }else if (menu == 2) {
                 System.out.println("\n=== DAFTAR PENONTON ===");
