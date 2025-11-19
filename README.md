@@ -10,3 +10,6 @@ Jawab:
 Apakah penonton[0].length, penonton[1].length, penonton[2].length, dan penonton[3].length memiliki nilai yang sama Mengapa?
 >Jawab:
 penonton.length digunakan untuk mengetahui jumlah baris pada array 2 dimensi. penonton[0].length digunakan untuk mengetahui jumlah kolom pada baris ke-0 dari array 2D. Ya, semuanya memiliki nilai yang sama yaitu 2 karena array dibuat dengan ukuran 4 elemen baris dan 2 elemen kolom
+10. Menurut Anda, apa kekurangan dan kelebihan foreach loop dibandingkan dengan for loop?
+>Jawab:
+Kelebihan foreach loop adalah sintaks lebih sederhana dan mudah dibaca, tidak ada risiko ArrayIndexOutOfBoundsException karena foreach otomatis berhenti di akhir elemen, dan cocok untuk membaca semua isi array. Sedangkan kekurangan foreach loop adalah tidak bisa mengakses index dan memodifikasi array secara langsung
