@@ -46,7 +46,7 @@ public class BioskopWithScanner22 {
                 System.out.println("\n=== DAFTAR PENONTON ===");
                 for (int i = 0; i < penonton.length; i++){
                     for (int j = 0; j < penonton[i].length; j++) {
-                        String isi = (penonton[i][j] == null) ? "null" : penonton[i][j];
+                        String isi = (penonton[i][j] == null) ? "***" : penonton[i][j];
                         System.out.print(isi + "\t");
                     }
                     System.out.println();
