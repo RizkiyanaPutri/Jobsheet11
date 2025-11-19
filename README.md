@@ -16,3 +16,6 @@ Kelebihan foreach loop adalah sintaks lebih sederhana dan mudah dibaca, tidak ad
 11. Berapa indeks baris maksimal untuk array penonton?
 >Jawab:
 indeks baris maksimal 3 (0,1,2,3)
+12. Berapa indeks kolom maksimal untuk array penonton?
+>Jawab
+indeks kolom maksimal 1 (0,1)
