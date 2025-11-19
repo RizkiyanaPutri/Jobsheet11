@@ -22,3 +22,8 @@ indeks kolom maksimal 1 (0,1)
 13. Apa fungsi dari String.join()?
 >Jawab
 Menggabungkan array atau list string dan untuk menambahkan delimiter(pemisah), misalnya",","-", atau "\n"
+
+#Percobaan 2#
+1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai dari indeks ke-0? Jelaskan!
+>Jawab
+Tidak, pengisian elemen array tidak harus berurutan dan program tetap berjalan asalkan indeks valid (tidak mengisi indeks yang sudah diisi), jika tidak maka program akan error atau bisa diberikan struktur kontrol untuk meminta user menginput indeks yang lain
