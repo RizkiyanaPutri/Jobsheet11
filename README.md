@@ -13,3 +13,6 @@ penonton.length digunakan untuk mengetahui jumlah baris pada array 2 dimensi. pe
 10. Menurut Anda, apa kekurangan dan kelebihan foreach loop dibandingkan dengan for loop?
 >Jawab:
 Kelebihan foreach loop adalah sintaks lebih sederhana dan mudah dibaca, tidak ada risiko ArrayIndexOutOfBoundsException karena foreach otomatis berhenti di akhir elemen, dan cocok untuk membaca semua isi array. Sedangkan kekurangan foreach loop adalah tidak bisa mengakses index dan memodifikasi array secara langsung
+11. Berapa indeks baris maksimal untuk array penonton?
+>Jawab:
+indeks baris maksimal 3 (0,1,2,3)
