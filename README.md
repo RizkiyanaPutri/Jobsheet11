@@ -26,4 +26,9 @@ Menggabungkan array atau list string dan untuk menambahkan delimiter(pemisah), m
 #Percobaan 2#
 1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai dari indeks ke-0? Jelaskan!
 >Jawab
-Tidak, pengisian elemen array tidak harus berurutan dan program tetap berjalan asalkan indeks valid (tidak mengisi indeks yang sudah diisi), jika tidak maka program akan error atau bisa diberikan struktur kontrol untuk meminta user menginput indeks yang lain
+Tidak, pengisian elemen array tidak harus berurutan dan program tetap berjalan asalkan indeks valid (tidak mengisi indeks yang sudah diisi), jika tidak maka program akan error atau bisa diberikan struktur kontrol untuk meminta user menginput indeks yang 
+
+#Percobaan 3#
+2. Apa fungsi dari Arrays.toString()?
+>Jawab
+mengubah isi array menjadi bentuk string untuk ditampilkan ke layar
